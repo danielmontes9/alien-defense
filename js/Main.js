@@ -13,7 +13,7 @@ var Main = {
 		button.anchor.setTo(0.5);
 		button.scale.setTo(0.5, 0.4);
 
-		var txtStart = game.add.text(game.width/2, (game.height/2), "Start Game", {font:"bold 40px LilyUPC", fill:"#40c643", align:"center"});
+		var txtStart = game.add.text(game.width/2, (game.height/2)+50, "Start Game", {font:"bold 40px LilyUPC", fill:"#40c643", align:"center"});
 		txtStart.anchor.setTo(0.5);
 		txtStart.setShadow(3, 3, 'rgba(0,0,0,0.5)', 2);
 
