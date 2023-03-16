@@ -17,11 +17,11 @@ var gameOVER ={
 		txtStart.anchor.setTo(0.5);
 		txtStart.setShadow(3, 3, 'rgba(0,0,0,0.5)', 2);
 
-		var txtStartScore = game.add.text(game.width/2+75, game.height/2+45, upScore.toString(), {font:"bold 40px LilyUPC", fill:"#40c643", align:"center"});
+		var txtStartScore = game.add.text(game.width/2+75, (game.height/2)-25, upScore.toString(), {font:"bold 40px LilyUPC", fill:"#40c643", align:"center"});
 		txtStartScore.anchor.setTo(0.5);
 		txtStartScore.setShadow(3, 3, 'rgba(0,0,0,0.5)', 2);
 
-		var txtTitle = game.add.text(game.width/2, game.height/2-10, "GAME OVER", {font:"bold 100px LilyUPC", fill:"#40c643", align:"center"});
+		var txtTitle = game.add.text(game.width/2, (game.height/2)-120, "GAME OVER", {font:"bold 100px LilyUPC", fill:"#40c643", align:"center"});
 		txtTitle.anchor.setTo(0.5);
 		txtTitle.setShadow(3, 3, 'rgba(0,0,0,0.5)', 2);
 
