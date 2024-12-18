@@ -36,8 +36,8 @@ var gameState = {
 		game.load.image('coin', 'resources/images/coin.png');
 		game.load.image('pauseImg', 'resources/images/pause.png');
 
-		game.load.audio('effects', '../resources/audio/effects/fx_mixdown.ogg');
-		game.load.audio('music', '../resources/audio/music/melodyloops-adrenaline.mp3');
+		game.load.audio('effects', 'resources/audio/effects/fx_mixdown.ogg');
+		game.load.audio('music', 'resources/audio/music/melodyloops-adrenaline.mp3');
 
 		game.forceSingleUpdate = true;
 	},
