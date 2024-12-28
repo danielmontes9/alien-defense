@@ -13,19 +13,18 @@ Welcome to **Alien Defense**, my first video game! This project was built using 
 - [🧞 Commands](#commands)
 - [👤 Author](#author)
 
-
 ## Overview
 
 ### Screenshot
 
-![Alien Defense Screenshot](./resources/images/screenshot-alien-defense.jpg)
+![Alien Defense Screenshot](./src/resources/images/screenshot-alien-defense.jpg)
 
 ### How to Play
 
-- Use the **arrow keys** to move.  
-- Note: The volume cannot be adjusted (sorry about that! 😬).  
+- Use the **arrow keys** to move.
+- Note: The volume cannot be adjusted (sorry about that! 😬).
 
-Enjoy the challenge and defend the planet!  
+Enjoy the challenge and defend the planet!
 
 ### Links
 
@@ -33,7 +32,7 @@ Enjoy the challenge and defend the planet!
 
 ## 🚀 Project Structure
 
-Here’s the structure of the project files and folders:  
+Here’s the structure of the project files and folders:
 
 ```plaintext
 .
@@ -72,7 +71,6 @@ Here’s the structure of the project files and folders:
 - **JavaScript**
 - [Phaser.io](https://phaser.io/)
 
-
 ## 🧞 Commands
 
 ```bash
@@ -83,14 +81,12 @@ git clone https://github.com/danielmontes9/alien-defense.git
 open index.html
 ```
 
-
 ## 👤 Author
 
-- **GitHub**: [@danielmontes9](https://www.github.com/danielmontes9)  
-- **Dev.to**: [@danielmontes9](https://www.dev.to/danielmontes9)  
+- **GitHub**: [@danielmontes9](https://www.github.com/danielmontes9)
+- **Dev.to**: [@danielmontes9](https://www.dev.to/danielmontes9)
 
 Feel free to check out my other projects or reach out for collaboration!
-
 
 ---
 
