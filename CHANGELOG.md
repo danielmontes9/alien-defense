@@ -1,4 +1,13 @@
-# 0.1.0 (2024-12-28)
+## [0.1.1](https://github.com/danielmontes9/alien-defense/compare/v0.1.0...v0.1.1) (2024-12-29)
+
+
+### Reverts
+
+* Revert "ci: :construction_worker: adding deploy workflow" ([6bac7fa](https://github.com/danielmontes9/alien-defense/commit/6bac7fa38209c83c169a55190b191e8fd7fe9051))
+
+
+
+# [0.1.0](https://github.com/danielmontes9/alien-defense/compare/2f3a3d6fedb77511d8333f213872e58eefdb43b4...v0.1.0) (2024-12-28)
 
 
 ### Bug Fixes
