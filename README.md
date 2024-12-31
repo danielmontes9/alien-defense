@@ -28,7 +28,7 @@ Enjoy the challenge and defend the planet!
 
 ### Links
 
-- Live Site URL: <a href="https://danielmontes9.github.io/alien-defense/" target="_blank">Play Alien Defense</a>
+- Live Site URL: <a href="https://master.alien-defense.pages.dev/" target="_blank">Play Alien Defense</a>
 
 ## 🚀 Project Structure
 
@@ -83,8 +83,8 @@ open index.html
 
 ## 👤 Author
 
-- **GitHub**: [@danielmontes9](https://www.github.com/danielmontes9)
-- **Dev.to**: [@danielmontes9](https://www.dev.to/danielmontes9)
+- **GitHub**: [@danielmontes9](https://github.com/danielmontes9)
+- **Dev.to**: [@danielmontes9](https://dev.to/danielmontes9)
 
 Feel free to check out my other projects or reach out for collaboration!
 
